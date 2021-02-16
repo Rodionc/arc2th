@@ -1,0 +1,5 @@
+#TheHive Internal Reference, ArcSight XML Field, TheHive Type
+endtime,endTime,string
+evtname,name,string
+evtmsg,message,string
+devIP,deviceAddress,string
